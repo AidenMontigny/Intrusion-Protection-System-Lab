@@ -17,8 +17,40 @@ In this Intrusion Protection System (IPS) lab, I successfully configured and imp
 
 <h2>Project walk-through:</h2>
 <p align="left">
-TEXT. <br/><br/>
-  <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Successfully authenticated and logged into pfSense. <br/><br/>
+  <img src="Screenshot 2025-05-01 123327.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+The "Snort" package was located and ready to be installed. <br/><br/>
+  <img src="Screenshot 2025-05-01 123335.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+The installation of Snort was successfully completed. <br/><br/>
+  <img src="Screenshot 2025-05-01 123342.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+This image displays the "oinkcode" obtained after account registration. <br/><br/>
+  <img src="Screenshot 2025-05-01 123350.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+The configuration settings were modified, and the "oinkcode" was successfully implemented  <br/> into Snort. <br/><br/>
+  <img src="Screenshot 2025-05-01 123400.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+The Snort update was successfully completed. <br/><br/>
+  <img src="Screenshot 2025-05-01 123407.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+The WAN and LAN interfaces were successfully implemented. <br/><br/>
+  <img src="Screenshot 2025-05-01 123413.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+The GVM Snort scan was successfully conducted on the Kali VM. <br/><br/>
+  <img src="Screenshot 2025-05-01 123421.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+The "Alter Logs" captured by Snort during the GVM full scan are displayed, highlighting  <br/> detected activities. <br/><br/>
+  <img src="Screenshot 2025-05-01 123429.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 
   
